@@ -1,0 +1,17 @@
+{
+  "name": "Путь Героя",
+  "short_name": "Путь Героя",
+  "description": "Пошаговая фэнтези-RPG: пять земель, три класса, одна тьма",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#120f1c",
+  "theme_color": "#120f1c",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
